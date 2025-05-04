@@ -1,4 +1,4 @@
-https://youtu.be/CGDM3KNLxPU
+[![Watch the video](thumbnail.jpg)](https://youtu.be/CGDM3KNLxPU)
 
 👋 Welcome to PythonPP – Python Plus Plus!
 
